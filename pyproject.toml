@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "pyqt5>=5.15.11",
-    "python-vlc>=3.0.21203",
+    "pyqtwebengine>=5.15.0",
+    "python-vlc>=3.0.20125",
     "requests>=2.32.4",
 ]
