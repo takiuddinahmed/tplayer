@@ -1,0 +1,11 @@
+[project]
+name = "tplayer"
+version = "0.1.0"
+description = "A Video player to run online network videos smoothly"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pyqt5>=5.15.11",
+    "python-vlc>=3.0.21203",
+    "requests>=2.32.4",
+]
